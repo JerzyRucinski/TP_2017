@@ -1,0 +1,4 @@
+Program symuluj¹cy dzia³anie windy. Symulator uwzglêdnia mo¿liwoœæ zatrzymywania
+siê na poszczególnych piêtrach oraz przywo³ania winda za pomoc¹ przycisku na interfejsie u¿ytkownika.
+Program kolejkuje wywo³ania. Prezentacja poruszania siê windy zosta³a
+przedstawiona na modelu osadzonym w przestrzeni dwuwymiarowej i jest stworzona w Visual Studio 2017. 
